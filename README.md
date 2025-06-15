@@ -19,7 +19,7 @@
 - **Seguridad en aplicaciones web y APIs**  
 - **Ingeniería de requisitos**  
 
-## 👯 Busco colaborar en...  
+## 🙌🏼 Busco colaborar en...  
 - **Desarrollo de APIs backend escalables**
 
 ## 📌 Conéctate conmigo  
