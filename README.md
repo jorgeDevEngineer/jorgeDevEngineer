@@ -21,7 +21,7 @@
 
 ## 👯 Busco colaborar en...  
 - **Desarrollo de APIs backend escalables**
-- 
+
 ## 📌 Conéctate conmigo  
 🔗 [GitHub](https://github.com/jorgeDevEngineer) | 🔗 [LinkedIn](#) | 🔗 [Twitter](#)  
 
