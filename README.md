@@ -23,4 +23,4 @@
 - **Desarrollo de APIs backend escalables**
 
 ## 📌 Conéctate conmigo  
-🔗 [GitHub](https://github.com/jorgeDevEngineer) | 🔗 [LinkedIn]([#](https://www.linkedin.com/in/jorge-ignacio-ram%C3%ADrez-mill%C3%A1n-573637346/)) | 🔗 [Twitter](#)  
+🔗 [GitHub](https://github.com/jorgeDevEngineer) | 🔗 [LinkedIn](https://www.linkedin.com/in/jorge-ignacio-ram%C3%ADrez-mill%C3%A1n-573637346/) | 🔗 [Twitter](#)  
