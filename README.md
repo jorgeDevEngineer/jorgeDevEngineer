@@ -23,33 +23,4 @@
 - **Desarrollo de APIs backend escalables**
 
 ## 📌 Conéctate conmigo  
-🔗 [GitHub](https://github.com/jorgeDevEngineer) | 🔗 [LinkedIn](#) | 🔗 [Twitter](#)  
-
----
-
-# 👋 Hi, I'm Jorge!  
-
-🎓 **Computer Engineering student at UCAB**  
-💻 Passionate about **web development, software engineering, and requirements engineering**  
-🚀 Always exploring new technologies  
-
-## 🛠️ Technologies I've worked with  
-- 📝 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-- ⚙️ **Frameworks & Libraries:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)  
-- 🔧 **Automation & Monitoring:** ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/-Newman-003C71?logo=newman&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![Telegram Bots](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)  
-- 🌐 **Networking & Security:** ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)  
-- 💾 **Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-- 🛠️ **Development Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-
-## 🌱 I’m currently learning...  
-- **Developing Telegram bots for monitoring and automation**  
-- **Optimizing backend architectures with Node.js and NestJS**  
-- **Automated testing with Postman and Newman**  
-- **Security in web applications and APIs**  
-- **Requirements engineering**  
-
-## 👯 I’m looking to collaborate on...  
-- **Scalable backend API development**
-
-## 📌 Connect with me  
-🔗 [GitHub](https://github.com/jorgeDevEngineer) | 🔗 [LinkedIn](#) | 🔗 [Twitter](#)  
+🔗 [GitHub](https://github.com/jorgeDevEngineer) | 🔗 [LinkedIn]([#](https://www.linkedin.com/in/jorge-ignacio-ram%C3%ADrez-mill%C3%A1n-573637346/)) | 🔗 [Twitter](#)  
